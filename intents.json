@@ -1,0 +1,170 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "Hey there",
+        "Hey, Sam",
+        "How are you?",
+        "Is anyone there?",
+        "Hello",
+        "Good day",
+        "Dear Sir",
+        "Sam"
+      ],
+      "responses": [
+        "Hey :)",
+        "Hey cutie <3",
+        "Hello, thanks for visiting our coffee website",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye",
+        "See you later",
+        "Goodbye",
+        "Metting later"
+      ],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon.",
+        "We will miss you <3"
+      ]
+    },
+    {
+      "tag": "morning",
+      "patterns": [
+        "Good morning",
+        "Nice morning"
+      ],
+      "responses": [
+        "Good Morning Sir, How Can I help you?",
+        "Nice day for you too <3"
+      ]
+    },{
+      "tag": "evening",
+      "patterns": [
+        "Good evening",
+        "Nice evining"
+      ],
+      "responses": [
+        "Good evening Sir, How Can I help you?",
+        "Nice night for you too <3"
+      ]
+    },{
+      "tag": "afternoon",
+      "patterns": [
+        "Good afternoon",
+        "Nice aftenoon"
+      ],
+      "responses": [
+        "Good afternoon Sir, How Can I help you?",
+        "Nice day for you too <3"
+      ]
+    },{
+      "tag": "ChatBot_name",
+      "patterns": [
+        "What is your name?",
+        "Tell me your name!",
+        "How can I called you?",
+        "Who are you?"
+      ],
+      "responses": [
+        "My name is (Sam)! I am here to help you <3"
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "Thanks",
+        "Thank you",
+        "Thanks alot",
+        "That's helpful",
+        "Thank's a lot!"
+      ],
+      "responses": [
+        "Happy to help!",
+        "Any time!",
+        "My pleasure <3"
+      ]
+    },
+    {
+      "tag": "items",
+      "patterns": [
+        "Which items do you have?",
+        "What kinds of items are there?",
+        "What do you sell?",
+        "What do you work?",
+        "What do you offer to people?",
+        "What is your service?"
+      ],
+      "responses": [
+        "We sell coffee and tea",
+        "We have coffee and tea",
+        "I am a ChatBot for a website that sells coffee and tea"
+      ]
+    },
+    {
+      "tag": "payments",
+      "patterns": [
+        "Do you take credit cards?",
+        "Do you accept Mastercard?",
+        "Can I pay with Paypal?",
+        "Are you cash only?",
+        "How Can I pay?",
+        "What about pay ways?"
+      ],
+      "responses": [
+        "We accept VISA, Mastercard and Paypal",
+        "We accept most major credit cards, and Paypal"
+      ]
+    },
+    {
+      "tag": "delivery",
+      "patterns": [
+        "How long does delivery take?",
+        "How long does shipping take?",
+        "When do I get my delivery?"
+      ],
+      "responses": [
+        "Delivery takes 2-4 days",
+        "Shipping takes 2-4 days"
+      ]
+    },
+    {
+      "tag": "prices",
+      "patterns": [
+        "How much for coffee?",
+        "How much for tea?",
+        "What is the price for a coffee?",
+        "What is the price for a tea?"
+      ],
+      "responses": [
+        "It's 4.5$ for one",
+        "It's 4.5$ for one, and if you take double you gain 1$ OFF!"
+      ]
+    },
+    {
+      "tag": "funny",
+      "patterns": [
+        "Tell me a joke!",
+        "Tell me something funny!",
+        "Do you know a joke?",
+        "Can you tell me a joke?",
+        "Could you tell me a joke?",
+        "Can you make me happy?",
+        "I am Sad, Tell me a joke!"
+      ],
+      "responses": [
+        "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
+        "What did the buffalo say when his son left for college? Bison."
+      ]
+    }
+  ]
+}
